@@ -1,0 +1,1 @@
+mult x y z = (\a -> (\b -> (\c -> a*b*c))) x y z
