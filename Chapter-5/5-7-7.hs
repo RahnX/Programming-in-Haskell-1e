@@ -1,0 +1,1 @@
+scalarproduct x_range y_range = sum [x*y | (x, y) <- zip x_range y_range]

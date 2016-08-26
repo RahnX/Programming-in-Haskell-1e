@@ -12,3 +12,13 @@ Solution to exercise from [Programming in Haskell 1e](http://www.cs.nott.ac.uk/~
 4. [4-8-4.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-4/4-8-4.hs)
 5. [4-8-5.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-4/4-8-5.hs)
 6. [4-8-6.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-4/4-8-6.hs)
+
+###Chapter 5
+1. [5-7-1.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-1.hs)
+2. [5-7-2.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-2.hs)
+3. [5-7-3.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-3.hs)
+4. [5-7-4.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-4.hs)
+5. [5-7-5.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-5.hs)
+6. [5-7-6.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-6.hs)
+7. [5-7-7.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-7.hs)
+8. [5-7-8.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-8.hs)
