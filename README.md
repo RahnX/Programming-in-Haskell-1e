@@ -1,0 +1,1 @@
+Solution to exercise from [Programming in Haskell 1e](http://www.cs.nott.ac.uk/~pszgmh/book.html).
