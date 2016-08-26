@@ -29,3 +29,12 @@ Solution to exercise from [Programming in Haskell 1e](http://www.cs.nott.ac.uk/~
 3. [6-8-4.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-4.hs)
 4. [6-8-5.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-5.hs)
 5. [6-8-6.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-6.hs)
+
+###Chapter 7
+1. [7-8-1.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-7/7-8-1.hs)
+2. [7-8-2.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-7/7-8-2.hs)
+3. [7-8-3.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-7/7-8-3.hs)
+4. [7-8-4.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-7/7-8-4.hs)
+5. [7-8-6.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-7/7-8-6.hs)
+6. [7-8-7.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-7/7-8-7.hs)
+7. [7-8-8.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-7/7-8-8.hs)
