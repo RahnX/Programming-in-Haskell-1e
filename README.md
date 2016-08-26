@@ -22,3 +22,10 @@ Solution to exercise from [Programming in Haskell 1e](http://www.cs.nott.ac.uk/~
 6. [5-7-6.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-6.hs)
 7. [5-7-7.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-7.hs)
 8. [5-7-8.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-5/5-7-8.hs)
+
+###Chapter 6
+1. [6-8-1.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-1.hs)
+2. [6-8-3.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-3.hs)
+3. [6-8-4.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-4.hs)
+4. [6-8-5.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-5.hs)
+5. [6-8-6.hs](https://github.com/RahnX/Programming-in-Haskell-1e/blob/master/Chapter-6/6-8-6.hs)
